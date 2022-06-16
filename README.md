@@ -6,3 +6,4 @@ I created this project using the programming language html css javascript and bo
 https://kind-smoke-019a20e10.1.azurestaticapps.net
 
 # Home page
+<img width="959" alt="1 home" src="https://user-images.githubusercontent.com/71370543/174046943-8f520e33-eafc-44e3-b777-51a7bcc5b8ff.PNG">
